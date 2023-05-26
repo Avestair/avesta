@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.skillbg{
+  background-image: url('./components/sikillbg1.png');
+}
+
+
+.header1-scrolled{
+  background-color: rgb(156, 163, 175 , 0.1);
+}
+
+.header1{
+  background-color: #E8E9FF;
+}
